@@ -11,13 +11,13 @@
 ║
 ║
 ║
-╠🆁🅴🅳╬🅳🆁🅰🅶🅾🅽╣ 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 [`𝗞.𝗣𝗿𝗮𝗯𝗵𝗮𝘀𝗵𝗮´]
+╠BOT 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 [`Nadeen Poorna´]
 ║
 ║
 ║
-╠═𝕆𝔹𝔽𝕌𝕊ℂ𝔸𝕋𝔼𝔻═𝔹𝕐═╣ 😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯
+╠═𝕆𝔹𝔽𝕌𝕊ℂ𝔸𝕋𝔼𝔻═𝔹𝕐═╣ 😎G.NADEEN POORNA❯❯
 ║
-╠═══════(github.com/prabhasha2006)═══════╣
+╠═══════(github.com/nadeenpoorna)═══════╣
 ║
 ║    ▒ ▒          ▒ ▒ ▒       ▒ ▒ ▒ ▒ ▒  
 ║    ▒    ▒      ▒     ▒          ▒      
@@ -252,7 +252,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                  xeonbody = `🤭🌹 Hi👋 @${xeonName.split("@")[0]}
 
-🤭🌹 Welcome To  ${metadata.subject}
+🤭🌹 Welcome To Nadeen's Bot  ${metadata.subject}
 🤭🌹 ${xmembers} Members
 
 Date  =  ${xdate}
@@ -261,7 +261,7 @@ Time  =  ${xtime} `
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
    let buttons = [
-    {buttonId: `owner`, buttonText: {displayText: '🙏WELCOME🙏'}, type: 1}
+    {buttonId: `owner`, buttonText: {displayText: '🙏WELCOME TO NADEEN BOT🙏'}, type: 1}
     ]
 let buttonMessage = {
     image: { url: 'https://i.ibb.co/0h3Sv26/20220805-080104.jpg'},
@@ -274,8 +274,8 @@ if(global.welcom_msg === "false")return
 KUMUTHU.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                 	const xeonbuffer = await getBuffer(ppuser)
-                    const xeontime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-	                const xeondate = moment.tz('Asia/Kolkata').format('YYYY/MM/DD')
+                    const xeontime = moment.tz('Asia/Kanthale').format('HH:mm:ss')
+	                const xeondate = moment.tz('Asia/Kanthale').format('YYYY/MM/DD')
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
