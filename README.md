@@ -1,4 +1,4 @@
-<p align="center">
+Aadi red dregon max<p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
 <p align="center">
 <img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
